@@ -1,2 +1,3 @@
 py122u
 pyinstaller
+pyscard
